@@ -1,8 +1,8 @@
 # Computer Vision Mini-projects
 
-This repository consists of my mini computer vision projects I do in order to get better at computer vision and machine learning. They use Kaggle datasets.
-All the files contained in this repositories were made use Kaggle notebooks.
+This repository consists of my mini computer vision projects I do in order to get better at computer vision and machine learning. I use TensorFlow and PyTorch for my computer vision projects.
 
+I have used Kaggle and Google Colab to create these notebooks.
 
 ### Datasets Used
 [ASL Alphabet Classifier](https://www.kaggle.com/grassknoted/asl-alphabet)
